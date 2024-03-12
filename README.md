@@ -12,7 +12,7 @@ This repository has organizing materials for the Our Networks 2024, for any ques
 
 ## Planning
 
-Tasks and deadlines are tracked using our [planning board](https://github.com/orgs/ournetworks/projects/1/views/1) and calendar. We have a bi-weekly(ish) planning call and a 📓 call notepad during a 1.5 hour timeslot on Saturdays 12:00-13:30 ET:
+Tasks and deadlines are tracked using our [planning board](https://github.com/orgs/ournetworks/projects/1/views/1) and calendar. We have a bi-weekly(ish) planning call and a 📓 call notepad.
 
 ## Milestones
 
