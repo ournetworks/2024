@@ -15,7 +15,7 @@ Our main organizing email is orga@ournetworks.ca, 2020 organizers are:
 
 ## Code of Conduct
 
-This event has a [Code of Conduct](https://github.com/ournetworks/ournetworks.ca/blob/main/code-of-conduct.md) that all organizers and attendees have been asked to follow in order to create a welcoming space to aim to do our best work together.
+This event has a [Code of Conduct](https://github.com/ournetworks/ournetworks.ca/blob/main/code-of-conduct.md) and enforcement guidelines that all organizers and attendees are asked to follow in order to create a welcoming space to aim to do our best work together. Our current version is published on our website: [https://ournetworks.ca/code-of-conduct/](https://ournetworks.ca/code-of-conduct/).
 
 
 ## Materials License
