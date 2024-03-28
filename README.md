@@ -16,7 +16,7 @@ Tasks and deadlines are tracked using our [planning board](https://github.com/or
 
 ## Milestones
 
-Our current milesontes and proposed 2024 Timeline (We have 26 weeks or 6 months):
+Our current milestones and proposed 2024 Timeline (We have 26 weeks or 6 months):
 
 - 2023-10-22 Check-in / Kick-off call
 - 2024-01-21 JAN Planning
