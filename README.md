@@ -22,11 +22,11 @@ Our current milestones and proposed 2024 Timeline (We have 26 weeks or 6 months)
 - 2024-01-21 JAN Planning
 - 2024-02 FEB Draft budget, sponsorship package, grant applications
 - 2024-02 FEB Co-writing on theme
-- 2024-03 EARLY MARCH (4 months before) Announcement teaser, (city that its happening, name, theme tagline)
+- 2024-03 MAR Secure venue
+- 2024-04 EARLY APR (4 months before) Announcement teaser, (city that its happening, name, theme tagline)
   - Website update #1
-- 2024-03 MAR Outreach to potential speakers, workshop folks, etc
-- 2024-04 EARLY APRIL (3 months before) full announcement with venue + location + theme
-    - Website update #2
+- 2024-04 APR Outreach to potential speakers, workshop folks, etc
+    - Website update #2 (3 months before) full announcement with venue + location + theme
 - 2024-05 MAY Speakers, additional travel details (2 months)
     - Website update #3
 - 2024-06 JUNE / Late MAY Registration/RSVP latest launch with final website and program (~6 weeks before?)
